@@ -1,2 +1,2 @@
-# Le Jardin connecté
+# Le Jardin connect
 
