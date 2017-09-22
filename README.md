@@ -14,4 +14,5 @@
 Il est necessaire d'effectuer l'adressage des sondes une à une, pour ceci munissez vous d'étiquettes autocollantes pour repérer vos sondes.
 
 - Connecter la première sonde au Wemos comme suit
-- Chargez le programme " 
+- Chargez le programme " ChangeSensorI2Cadress" et changez les adresses de vos sondes à la ligne 19
+
