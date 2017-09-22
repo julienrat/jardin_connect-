@@ -10,5 +10,8 @@
 	- BME280 https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/Adafruit_BME280_Library-master.zip
 	- ADAFRUIT Unified Sensor https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/Adafruit_Unified_Sensor.zip
 
-## configurer les sondes SOIL moisture
+## Configurer les sondes SOIL moisture
+Il est necessaire d'effectuer l'adressage des sondes une à une, pour ceci munissez vous d'étiquettes autocollantes pour repérer vos sondes.
 
+- Connecter la première sonde au Wemos comme suit
+- Chargez le programme " 
