@@ -7,7 +7,7 @@
 	- I2CSoilMoistureSensor https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/I2CSoilMoistureSensor-master.zip
 	- MOD 1023 https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/MOD-1023-master.zip
 	- ADAFRUIT SI 1145 https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/Adafruit_SI1145_Library-master.zip
-	- BME280 https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/BME280-master.zip
+	- BME280 https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/BlueDot_BME280-master.zip
 	- ADAFRUIT Unified Sensor https://github.com/julienrat/jardin_connect-/raw/master/Biblioth%C3%A8ques/Adafruit_Unified_Sensor.zip
 
 ## Configurer les sondes SOIL moisture
